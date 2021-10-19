@@ -1,0 +1,181 @@
+/*Especificidad: 001*/
+body {
+    font-family: "Andale Mono", monospace;
+    color: #818181;
+    background-color: #FFFAF0;
+    }
+  /*Especificidad: 001*/
+  h1 {
+    font-family: "Andale Mono", monospace;
+    font-size: 3em;
+    color: #A0522D;   
+    background-color:#FFFAF0; 
+    text-transform: uppercase;
+    text-align: center;  
+    border-style: solid; 
+    }
+  
+    /*Especificidad: 001*/
+  h2 {
+    font-family: "Andale Mono", monospace;
+    color: #000;    
+    background-color:#FFE4C4; 
+    text-transform: uppercase;
+    text-align: center;     
+    border-top-style: dotted;
+    border-right-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+   }
+  
+   /*Especificidad: 001*/
+   h3 {
+    font-family: "Andale Mono", monospace;
+    color: #000;    
+    background-color:#FFEFD5; 
+    text-transform: uppercase;
+    text-align: center;
+  
+   }
+  
+   /*Especificidad: 001*/
+   nav{
+    font-family: "Andale Mono", monospace;
+     margin : 25px 50px 40px 25px;
+     font-size: 20PX;
+   }
+   /*Especificidad: 001*/
+   main,section,aside,article,footer{
+    font-family: "Andale Mono", monospace;
+    color: #000;    
+    background-color:#FFFAF0; 
+   }
+  
+   
+  
+   /*Especificidad: 001*/
+   a:link{
+    color: black;
+    background-color:#FFFAF0; 
+    
+  }
+  
+  /*Especificidad: 001*/
+  a:visited{
+    color: blue;
+    background-color:#FFFAF0; 
+  }
+   
+  /*Especificidad: 001*/
+   p {
+    font-family: "Andale Mono", monospace;
+    color: #000;
+    background-color:#FFFAF0; 
+    font-size: 18px;
+    text-align: start;  
+    line-height: 1.5; 
+    margin: 1.5%;
+   }
+  
+   
+  /*Especificidad: 001*/
+   table{
+    font-family: "Andale Mono", monospace;
+    color: #000;
+    background-color: #FFFAF0;
+    font-size: 20px;
+   }
+  
+   /*Especificidad: 001*/
+   caption{
+    font-family: "Andale Mono", monospace;
+    color: #000;
+    background-color: #FFFAF0;
+    font-size: 30px;
+    padding: 25px;
+    margin : 20px 0px 0px 0px;
+   }
+  
+   /*Especificidad: 001*/
+   tr,td,th{
+    font-family: "Andale Mono", monospace;
+    color: #000;
+    background-color:#FFE4C4; 
+  
+   }
+  
+   /*Especificidad: 001*/
+   ul{
+    font-family: "Andale Mono", monospace;
+    color: #000;
+    background-color:#FFE4C4; 
+    font-size: 20px;
+   }
+  
+   /*Especificidad: 001*/
+   li{
+    font-family: "Andale Mono", monospace;
+    color: #000;
+    background-color:#FFE4C4; 
+   }
+  
+   /*Especificidad: 001*/
+   img,video,audio{
+      display: block;
+      margin: auto;
+      border:solid;
+   }
+  
+   /*Especificidad: 001*/
+   form{
+    font-family: "Andale Mono", monospace;
+    color: #000;
+    background-color: #FFFAF0;
+    font-size: 20px;
+   }
+   
+   /*Especificidad: 001*/
+   fieldset{
+    font-family: "Andale Mono", monospace;
+    color: #000;
+    background-color: #FFE4C4;
+   }
+  
+   /*Especificidad: 001*/
+   legend{
+    font-family: "Andale Mono", monospace;
+    color: #000;
+    background-color: #FFFAF0;
+    border: 1px solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  
+   }
+  
+   /*Especificidad: 001*/
+   input{
+    font-family: "Andale Mono", monospace;
+    color: #000;
+    background-color: #FFFAF0;
+    margin-bottom: 20px;
+    padding: 2px;
+   }
+  
+   /*Especificidad: 001*/
+   label{
+    font-family: "Andale Mono", monospace;
+    color: #000;
+    background-color: #FFE4C4;
+  
+   }
+  
+  
+  
+   
+  
+   
+  
+   
+  
+  
+  
